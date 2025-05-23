@@ -1,17 +1,17 @@
 package MakeMyTrip.MakeMyTrip;
 
-import static org.junit.jupiter.api.Assertions.assertTrue;
 
-import org.junit.jupiter.api.Test;
 
-/**
- * Unit test for simple App.
- */
+import org.testng.annotations.Test;
+
+import static org.junit.Assert.assertTrue;
+
+
+
+
 public class AppTest {
 
-    /**
-     * Rigorous Test :-)
-     */
+    
     @Test
     public void shouldAnswerWithTrue() {
         assertTrue(true);
